@@ -190,6 +190,6 @@ Potential improvements:
 - AI Infrastructure:
   - LangChain
   - Qdrant
-  - LLM-based recommendation generation
+  - LLM-based recommendation generation( Traning LLM )
 
 ---
